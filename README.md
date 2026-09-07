@@ -1,1 +1,14 @@
-# nghuucam.github.io
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang web đầu tiên của tôi</title>
+</head>
+<body>
+
+    <h1>Xin chào thế giới!</h1>
+    <p>Đây là một đoạn văn bản HTML cơ bản. Bạn có thể viết nội dung của mình vào đây.</p>
+
+</body>
+</html>
